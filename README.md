@@ -1,11 +1,11 @@
-# Tarea de Introducción a la Inteligencia Artificial  
+# 🤖 Tarea de Introducción a la Inteligencia Artificial  
 
 **Curso:** Inteligencia Artificial y Mini-Robots  
 **Autor:** David Camilo Guzmán Guerrero  
 **Fecha de Entrega:** Junio 2025  
 **Repositorio:** [Enlace a GitHub](https://github.com/lmao813/Tarea_AutomatasCelulares)
 
-## Contenido
+## 📚 Contenido
 
 - **Ejercicio 1:**  Definiciones de Inteligencia Artificial generadas por modelos LLMs (ChatGPT, Gemini, Claude).  
 - **Ejercicio 2:** Definición personal de IA basada en análisis crítico.  
