@@ -3,7 +3,7 @@
 **Curso:** Inteligencia Artificial y Mini-Robots  
 **Autor:** David Camilo Guzmán Guerrero  
 **Fecha de Entrega:** Junio 2025  
-**Repositorio:** [Enlace a GitHub](https://github.com/lmao813/Tarea_AutomatasCelulares)
+**Repositorio:** [Enlace a GitHub](https://github.com/lmao813/Tarea_InteligenciaArtificial)
 
 ## 📚 Contenido
 
