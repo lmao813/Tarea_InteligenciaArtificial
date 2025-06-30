@@ -16,7 +16,7 @@
 
 [🔗 ¿Qué es la inteligencia artificial? – YouTube](https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s)  
 
-## 🏛️ Referencias oficiales  
+## 🏛️ Referencias 
 
 - [Política Nacional de Inteligencia Artificial – MINTIC](https://mintic.gov.co/portal/inicio/Secciones-de-Interes/Inteligencia-Artificial/)  
 - [CONPES 3975 de 2019 – DNP](https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3975.pdf)  
