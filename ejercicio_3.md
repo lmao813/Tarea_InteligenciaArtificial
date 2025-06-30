@@ -1,4 +1,4 @@
-* Análisis del video propuesto
+# Análisis del video propuesto
 
 El video explica de manera sencilla qué es la inteligencia artificial y cómo se relaciona con tareas que tradicionalmente son propias de los seres humanos, como reconocer voces, imágenes, entender el lenguaje o tomar decisiones. También menciona cómo la IA se entrena con grandes cantidades de datos para poder “aprender” y mejorar su rendimiento con el tiempo.
 
