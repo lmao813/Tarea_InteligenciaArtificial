@@ -15,5 +15,5 @@ Además, Colombia hace parte de iniciativas globales como la Alianza Global sobr
 * Política Nacional de Inteligencia Artificial – MINTIC
 * Documento CONPES 3975 de 2019 – DNP
 
-# ✅ Conclusión personal:
+## ✅ Conclusión:
 Me parece positivo que el país tenga una hoja de ruta para el uso de la inteligencia artificial, sobre todo si se enfoca en resolver problemas sociales reales y garantizar un manejo ético de los datos y los algoritmos.
