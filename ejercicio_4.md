@@ -7,13 +7,8 @@ Promover el uso de la IA en áreas clave como salud, educación, justicia y medi
 Fomentar el desarrollo de talento humano con capacidades en IA y análisis de datos.  
 Impulsar el uso responsable y ético de la inteligencia artificial, con lineamientos claros de gobernanza y transparencia.  
 Potenciar la disponibilidad de datos abiertos y seguros, que permitan entrenar algoritmos para distintas aplicaciones.  
-
-## 🌐 Colombia en el mundo
 Además, Colombia hace parte de iniciativas globales como la Alianza Global sobre la Inteligencia Artificial (GPAI), que busca crear estándares y políticas compartidas para un desarrollo responsable de la IA a nivel internacional.
 
 ## 🔗 Fuentes consultadas
 * Política Nacional de Inteligencia Artificial – MINTIC
 * Documento CONPES 3975 de 2019 – DNP
-
-## ✅ Conclusión:
-Me parece positivo que el país tenga una hoja de ruta para el uso de la inteligencia artificial, sobre todo si se enfoca en resolver problemas sociales reales y garantizar un manejo ético de los datos y los algoritmos.
